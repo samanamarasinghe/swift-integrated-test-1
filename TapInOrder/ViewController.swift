@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         currpressed = 0
     }
     
+    
     func randomizeOrder() {
         order = [Int]()
         
