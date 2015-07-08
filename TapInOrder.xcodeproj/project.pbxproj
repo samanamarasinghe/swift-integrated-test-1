@@ -411,6 +411,7 @@
 				E1A7D8291B3DC94800B9A5CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E1A7D82A1B3DC94800B9A5CC /* Build configuration list for PBXNativeTarget "TapInOrderTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				E1A7D82C1B3DC94800B9A5CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
