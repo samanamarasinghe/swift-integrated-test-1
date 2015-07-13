@@ -29,7 +29,7 @@ class NamingPicturesViewController: UIViewController {
         super.viewDidLoad()
         //  var imageView = UIImageView(frame:CGRectMake(0.0, 60.0, view.bounds.height-50, ((view.bounds.height-50)*3/4)))
         
-        var imageView = UIImageView(frame:CGRectMake(0.0, 60.0, view.bounds.height-50, ((view.bounds.height-50)*3/4)))
+        var imageView = UIImageView(frame:CGRectMake(0.0, 100.0, view.bounds.height-50, ((view.bounds.height-50)*3/4)))
         var image = UIImage(named: imageName)
         imageView.image = image
         self.view.addSubview(imageView)
